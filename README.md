@@ -1,5 +1,6 @@
-# 💫 About Me:
-### Hey, I'm Youssef 👋<br><br>**Data Analytics | Python • Excel • SQL • Power BI**<br><br>I'm passionate about turning data into meaningful insights and building practical, data-driven solutions.<br/><br><br>🎓 Study Computer Science at Capital University<br/><br>📊 Currently developing my skills in Data Analytics, Data Visualization, and Business Intelligence<br/><br>💻 Working with Python, Excel, SQL, Power BI, and data analysis tools<br/>
+# 👋 Hi, I'm Youssef! 
+
+**Data Analytics | Python • Excel • SQL • Power BI**<br><br>I'm passionate about turning data into meaningful insights and building practical, data-driven solutions.<br/><br><br>🎓 Study Computer Science at Capital University<br/><br>📊 Currently developing my skills in Data Analytics, Data Visualization, and Business Intelligence<br/><br>💻 Working with Python, Excel, SQL, Power BI, and data analysis tools<br/>
 
 
 ## 🌐 Socials:
@@ -11,8 +12,3 @@
 ![](https://github-readme-stats.shion.dev/api?username=youssef-mazher&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=youssef-mazher&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=youssef-mazher&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=youssef-mazher&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
