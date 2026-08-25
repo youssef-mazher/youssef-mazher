@@ -2,11 +2,11 @@
 
 **Data Analytics | Python • Excel • SQL • Power BI**
 
-I'm passionate about turning data into meaningful insights and building practical, data-driven solutions.
+I'm passionate about turning data into meaningful insights and building practical, data-driven solutions.<br/>
 
-🎓 Studied Computer Science at [Capital University](https://www.linkedin.com/in/youssef-mazher)
-📊 Currently developing my skills in Data Analytics, Data Visualization, and Business Intelligence
-💻 Working with Python, Excel, SQL, Power BI, and data analysis tools
+🎓 Studied Computer Science at [Capital University](https://www.linkedin.com/in/youssef-mazher)<br/>
+📊 Currently developing my skills in Data Analytics, Data Visualization, and Business Intelligence<br/>
+💻 Working with Python, Excel, SQL, Power BI, and data analysis tools<br/>
 
 ### 📊 GitHub Stats
 
