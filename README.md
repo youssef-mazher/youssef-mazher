@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey, I'm Youssef 👋
 
-<!--
-**youssef-mazher/youssef-mazher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analytics | Python • Excel • SQL • Power BI**
 
-Here are some ideas to get you started:
+I'm passionate about turning data into meaningful insights and building practical, data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Studied Computer Science at [Capital University](https://www.linkedin.com/in/youssef-mazher)
+📊 Currently developing my skills in Data Analytics, Data Visualization, and Business Intelligence
+💻 Working with Python, Excel, SQL, Power BI, and data analysis tools
+
+### 📊 GitHub Stats
+
+[![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssef-mazher)](https://github.com/youssef-mazher)
