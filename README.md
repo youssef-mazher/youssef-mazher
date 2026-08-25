@@ -10,4 +10,4 @@ I'm passionate about turning data into meaningful insights and building practica
 
 ### 📊 GitHub Stats
 
-[![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssef-mazher)](https://github.com/youssef-mazher)
+[![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssef-mazher&show_icons=true&theme=radical)](https://github.com/youssef-mazher)
