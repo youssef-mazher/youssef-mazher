@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hey, I'm Youssef 👋<br><br>**Data Analytics | Python • Excel • SQL • Power BI**<br><br>I'm passionate about turning data into meaningful insights and building practical, data-driven solutions.<br/><br><br>🎓 Studied Computer Science at Capital University<br/><br>📊 Currently developing my skills in Data Analytics, Data Visualization, and Business Intelligence<br/><br>💻 Working with Python, Excel, SQL, Power BI, and data analysis tools<br/>
+### Hey, I'm Youssef 👋<br><br>**Data Analytics | Python • Excel • SQL • Power BI**<br><br>I'm passionate about turning data into meaningful insights and building practical, data-driven solutions.<br/><br><br>🎓 Study Computer Science at Capital University<br/><br>📊 Currently developing my skills in Data Analytics, Data Visualization, and Business Intelligence<br/><br>💻 Working with Python, Excel, SQL, Power BI, and data analysis tools<br/>
 
 
 ## 🌐 Socials:
